@@ -1,4 +1,5 @@
-# Olá, eu sou o André! <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="50px">
+# Olá, eu sou o André! <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" height="50px" width="50px"> 
+
 
 <div align="center">
   <a href="https://github.com/joseandre1706">
