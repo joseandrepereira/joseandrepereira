@@ -8,17 +8,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="404-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
+  <img align="center" alt="404-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="404-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="404-Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="404-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="404-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="404-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="404-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="404-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  
-  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp">
-   
+  <img align="center" alt="404-VueBootstrap" height="30" width="30" src="https://bootstrap-vue.org/_nuxt/icons/icon_144x144.67aef2.png" />
   
   
+  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp"> 
 </div>
   
   ##
