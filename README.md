@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/joseandre1706">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joseandre1706&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandre1706&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/joseandrepereira">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joseandrepereira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandrepereira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,6 +32,6 @@
     
     
  
-  ![404-Snake animation](https://github.com/joseandre1706/joseandre1706/blob/output/github-contribution-grid-snake.svg)
+  ![404-Snake animation](https://github.com/joseandrepereira/joseandrepereira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
