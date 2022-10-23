@@ -7,7 +7,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandrepereira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
-### :pushpin: Tecnologias que estou usando atualmente:
+### :rocket: Tecnologias que estou usando atualmente:
 <div style="display: inline_block">
   <img align="center" alt="404-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="404-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -21,7 +21,7 @@
 </div>
   
   ##
-  ### :mailbox_with_mail: Redes sociais (clique para ser redirecionado):
+  ### :pushpin: Redes sociais (clique para ser redirecionado):
 
   <div> 
     <a href="https://www.linkedin.com/in/jose-andre-psn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
