@@ -7,6 +7,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandrepereira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
+
+
 ### :rocket: Tecnologias que estou usando atualmente:
 <div style="display: inline_block">
   <img align="center" alt="404-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -18,7 +20,8 @@
   <img align="center" alt="404-VueBootstrap" height="30" width="30" src="https://bootstrap-vue.org/_nuxt/icons/icon_144x144.67aef2.png" />
   
   
-  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp"> 
+  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"> 
+  
 </div>
   
   ##
