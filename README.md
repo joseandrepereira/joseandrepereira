@@ -17,7 +17,6 @@
   <img align="center" alt="404-Redis" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   
   
-  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"> 
   
 </div>
   
@@ -29,5 +28,8 @@
     <a href = "mailto:jose.andre.psn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/+5584987614805" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://t.me/joseandre" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+
+  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"> 
+    
  
 </div>
