@@ -36,6 +36,8 @@
     
     
  
-  ![404-Snake animation](https://github.com/joseandrepereira/joseandrepereira/blob/output/github-contribution-grid-snake.svg)
+  https://github.com/joseandrepereira/joseandrepereira/blob/output/github-contribution-grid-snake.gif
+
+  ![snake gif](https://github.com/joseandrepereira/joseandrepereira/blob/output/github-contribution-grid-snake.gif)
  
 </div>
