@@ -47,7 +47,7 @@ jobs:
             dist/aqua.svg?color_snake=cyan&color_dots=#e0ffff,#b3ffff,#80ffff,#4dffff,#00ced1
             dist/space.svg?color_snake=#1a1a2e&color_dots=#16213e,#0f3460,#533483,#e94560,#ff6f61
             dist/cyberpunk.svg?color_snake=#ff00ff&color_dots=#ff00ff,#ff1493,#ff4500,#ffd700,#ffff00
-            dist/rainbow.svg?color_snake=#ff0000&color_dots=#ff0000,#ff7f00,#ffff00,#00ff00,#0000ff
+            dist/rainbow.svg?palette=github-light&color_snake=#ff0000&color_dots=#ffaaaa,#ffcc55,#ffff77,#aaffaa,#aaddff
 
       # Debug - List files in dist
       - name: Debug - List generated files
