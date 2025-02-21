@@ -1,25 +1,22 @@
 # Olá, eu sou o André! <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" height="50px" width="50px"> 
 
-Sou um desenvolvedor de software apaixonado e entusiasta de tecnologia. Atualmente, trabalho como Desenvolvedor Full Stack e, desde 2022, venho atuando no desenvolvimento de aplicações escaláveis e performáticas.
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas. Desde 2022, venho criando aplicações escaláveis e performáticas, sempre buscando entregar soluções inovadoras e eficientes.
 
-Com experiência em diversas tecnologias, tive a oportunidade de trabalhar em projetos desafiadores, contribuindo para a otimização de processos empresariais e a criação de sistemas robustos. Sempre busco aprender e explorar novas soluções para entregar software de alto impacto.
+Trabalho com backend e frontend, ajudando empresas a otimizar processos, integrar sistemas e desenvolver soluções robustas. Meu foco é desenvolvimento ágil, eficiência e escalabilidade, sempre utilizando as melhores práticas do mercado. <br/> 
 
-> Programação não é sobre saber tudo, mas sobre nunca parar de aprender. Um erro hoje é um conhecimento a mais amanhã! 🎯📖
+> "Programação não é sobre saber tudo, mas sobre nunca parar de aprender. Um erro hoje é um conhecimento a mais amanhã!" 🎯📖
 <br/>
 
-# 🛠️ Experiências
-Atuo como Desenvolvedor Full Stack, criando aplicações escaláveis e performáticas que ajudam empresas a otimizar processos e melhorar a experiência do usuário. Minha paixão é transformar desafios técnicos em soluções robustas e eficientes.
+# 🛠️ Experiência Profissional
 
-## 🚀 Experiência Profissional
-
-  - Desenvolvimento de aplicações backend e frontend para diversos setores, aplicando práticas modernas de desenvolvimento para garantir soluções ágeis, seguras e escaláveis.
-  - Experiência em integração de sistemas, automação de processos e desenvolvimento de ETLs eficientes, reduzindo custos operacionais e aumentando a produtividade.
-  - Participação em reuniões com clientes, garantindo alinhamento entre tecnologia e necessidades de negócio.
+  - Desenvolvimento de aplicações full stack aplicando práticas modernas de desenvolvimento ágil, CI/CD e cloud computing.
+  - Integração de sistemas e automação de processos, reduzindo custos operacionais e aumentando a produtividade.
+  - Participação em reuniões estratégicas para alinhar tecnologia às necessidades do negócio.
 
 ## 📌 Destaques do Meu Trabalho
-✅ Otimização de processos internos que resultaram em economia de tempo e redução de custos operacionais. <br/>
-✅ Implementação de soluções escaláveis utilizando tecnologias para diferentes domínios de negócio. <br/>
-✅ Melhoria da performance de aplicações com foco em eficiência e arquitetura bem estruturada. <br/>
+✅ Otimização de processos internos, reduzindo custos e tempo de execução. <br/>
+✅ Criação de soluções escaláveis utilizando Python, Django, Vue.js e FastAPI. <br/>
+✅ Melhoria na performance e arquitetura de aplicações para maior eficiência e manutenibilidade. <br/>
 
 # 💻 Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,react,cypress,py,django,flask,c,cpp,java&perline=18)](https://skillicons.dev)
