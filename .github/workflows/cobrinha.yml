@@ -18,16 +18,20 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
+      # Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # Ensure the dist directory exists
       - name: Ensure dist directory exists
         run: mkdir -p dist
 
-      # Generates a snake game from a GitHub user's contributions graph and outputs an SVG animation
+      # Generate GitHub Contribution Snake (supports GIFs)
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -43,7 +47,7 @@ jobs:
       - name: Debug - List generated files
         run: ls -R dist || echo "Directory dist does not exist"
 
-      # Push the generated files to the output branch
+      # Push generated files to output branch
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
