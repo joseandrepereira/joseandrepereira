@@ -48,6 +48,7 @@ jobs:
             dist/space.svg?color_snake=#1a1a2e&color_dots=#16213e,#0f3460,#533483,#e94560,#ff6f61
             dist/cyberpunk.svg?color_snake=#ff00ff&color_dots=#ff00ff,#ff1493,#ff4500,#ffd700,#ffff00
             dist/rainbow.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#ffb3b3,#ffbb66,#ffec80,#66cc99,#6699ff,#4b1f5c
+            dist/rainbow-dark.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#e68a00,#e0d100,#4d8b66,#3366cc,#3d145e
             dist/cool.svg?palette=github-light&color_snake=#2b372f&color_dots=#f3eae8,#fffbc0,#ffe262,#ff921f,#327285
 
       # Debug - List files in dist
