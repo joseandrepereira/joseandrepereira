@@ -44,7 +44,7 @@ jobs:
             dist/sunset.svg?color_snake=red&color_dots=#ffdab9,#ffb347,#ff8c00,#ff4500,#dc143c
             dist/forest.svg?color_snake=green&color_dots=#d4edda,#a3d9a5,#76c68f,#45b06f,#2e8b57
             dist/galaxy.svg?color_snake=purple&color_dots=#e0bbff,#c77dff,#9d4edd,#6a0dad,#4b0082
-            dist/fire.svg?color_snake=yellow&color_dots=#fff5cc,#ffec80,#ffdb4d,#ffbf00,#ff9900
+            dist/fire.svg?color_snake=#141406&color_dots=#f2ffc4,#ffff7d,#ffc62b,#ff7219,##ff0054
             dist/neon.svg?color_snake=#00ffcc&color_dots=#e6ffcc,#ccff99,#99ff66,#66ff33,#33cc00
             dist/candy.svg?color_snake=purple&color_dots=#ffb6c1,#ff85a2,#ff4f79,#ff1a52,#c71585
             dist/aqua.svg?color_snake=cyan&color_dots=#e0ffff,#b3ffff,#80ffff,#4dffff,#00ced1
