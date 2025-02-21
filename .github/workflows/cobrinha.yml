@@ -42,18 +42,19 @@ jobs:
             
             # Temas personalizados com diferentes cores para a cobra e os pontos
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean-dark.svg?palette=github-light&color_snake=#12172b&color_dots=#20dad8,#1da2c2,#146589,#123b55,#12172b
-            dist/burnt-yellow.svg?palette=github-light&color_snake=#3f170b&color_dots=#eacb44,#d59037,#985a27,#673316,#3f170b
+            
+            dist/ocean-dark.svg?palette=github-light&color_snake=#12172b&color_dots=#8bd6cf,#1da2c2,#146589,#123b55,#12172b
+            dist/burnt-yellow.svg?palette=github-light&color_snake=#3f170b&color_dots=#fff8cd,#d59037,#985a27,#673316,#3f170b
             dist/dusky-bloom.svg?palette=github-light&color_snake=#323021&color_dots=#fff8cd,#ffb2ed,#bfa0ff,#4b643f,#323021
             dist/sunset.svg?color_snake=red&color_dots=#ffdab9,#ffb347,#ff8c00,#ff4500,#dc143c
             dist/forest.svg?color_snake=green&color_dots=#d4edda,#a3d9a5,#76c68f,#45b06f,#2e8b57
             dist/galaxy.svg?color_snake=purple&color_dots=#e0bbff,#c77dff,#9d4edd,#6a0dad,#4b0082
             dist/fire.svg?color_snake=#141406&color_dots=#f2ffc4,#ffff7d,#ffc62b,#ff7219,##ff0054
-            dist/neon.svg?color_snake=#00ffcc&color_dots=#e6ffcc,#ccff99,#99ff66,#66ff33,#33cc00
+            dist/neon.svg?color_snake=#412904&color_dots=#e6ffcc,#ccff99,#99ff66,#66ff33,#33cc00
             dist/candy.svg?color_snake=purple&color_dots=#ffb6c1,#ff85a2,#ff4f79,#ff1a52,#c71585
             dist/aqua.svg?color_snake=cyan&color_dots=#e0ffff,#b3ffff,#80ffff,#4dffff,#00ced1
-            dist/space.svg?color_snake=#1a1a2e&color_dots=#16213e,#0f3460,#533483,#e94560,#ff6f61
-            dist/cyberpunk.svg?color_snake=#ff00ff&color_dots=#ff00ff,#ff1493,#ff4500,#ffd700,#ffff00
+            dist/space.svg?color_snake=red&color_dots=#16213e,#0f3460,#533483,#e94560,#ff6f61
+            dist/cyberpunk.svg?color_snake=#004366&color_dots=#142107,#0f5a45,#ff948d,#ffcb9c,#fffab7
             dist/rainbow.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#ffb3b3,#ffbb66,#ffec80,#66cc99,#6699ff,#4b1f5c
             dist/rainbow-dark.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#e68a00,#e0d100,#4d8b66,#3366cc,#3d145e
             dist/cool.svg?palette=github-light&color_snake=#2b372f&color_dots=#f3eae8,#fffbc0,#ffe262,#ff921f,#327285
